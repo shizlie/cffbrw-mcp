@@ -1,24 +1,24 @@
 {
-  "name": "cffbrw-mcp",
-  "version": "0.1.0",
-  "description": "MCP server configuration for CFFBRW — AI-powered workflow compiler for Cloudflare edge",
-  "keywords": [
-    "mcp",
-    "mcp-server",
-    "model-context-protocol",
-    "workflow",
-    "automation",
-    "cloudflare",
-    "cloudflare-workers",
-    "durable-objects",
-    "ai-tools",
-    "ai-compiler"
-  ],
-  "homepage": "https://cffbrw.com",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cffbrw/mcp.git"
-  },
-  "license": "MIT",
-  "author": "CFFBRW"
+    "name": "cffbrw-mcp",
+    "version": "0.1.0",
+    "description": "MCP server configuration for CFFBRW — AI-powered workflow compiler for Cloudflare edge",
+    "keywords": [
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "workflow",
+        "automation",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "ai-tools",
+        "ai-compiler"
+    ],
+    "homepage": "https://cffbrw.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shizlie/cffbrw-mcp"
+    },
+    "license": "MIT",
+    "author": "CFFBRW"
 }
