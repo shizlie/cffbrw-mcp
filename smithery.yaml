@@ -1,0 +1,26 @@
+# Smithery configuration for CFFBRW MCP Server
+# https://smithery.ai/docs/config
+
+name: cffbrw
+description: AI-powered workflow compiler for Cloudflare edge. Compile automation from prose, run forever without AI tokens.
+icon: https://cffbrw.com/favicon.svg
+homepage: https://cffbrw.com
+documentation: https://cffbrw.com/docs/agent-guide
+
+server:
+  type: remote
+  url: https://api.cffbrw.com/mcp
+  transport: streamable-http
+
+auth:
+  type: bearer
+  description: "API key from cffbrw.com/api-keys (format: wfk_...)"
+
+tags:
+  - workflow
+  - automation
+  - cloudflare
+  - mcp
+  - ai-compiler
+  - edge-computing
+  - durable-objects

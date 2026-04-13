@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cffbrw": {
+      "type": "url",
+      "url": "https://api.cffbrw.com/mcp",
+      "headers": {
+        "Authorization": "Bearer wfk_your_key_here",
+        "Accept": "application/json, text/event-stream"
+      }
+    }
+  }
+}
